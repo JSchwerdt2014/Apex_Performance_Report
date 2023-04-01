@@ -5,9 +5,9 @@ resposibilities during employment with Apex Trim & Upholstery.
 
 ## **Methods Used**
 
--Data Analysis
--Data Visualization
--Predictive Modeling
+-Data Analysis  
+-Data Visualization  
+-Predictive Modeling  
 
 ## **Technologies**
 
