@@ -23,7 +23,7 @@ resposibilities during employment with Apex Trim & Upholstery.
 
 ## **Technologies**
 
--Power BI
--Tableau
--Excel
--Version Control
+-Power BI  
+-Tableau  
+-Excel  
+-Version Control  
