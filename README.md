@@ -13,7 +13,7 @@ resposibilities during employment with Apex Trim & Upholstery.
 
 ##  **Tableau report**
 
-![Power Bi Employee Performance Report](Apex_Power_BI_Employee_Report.png)
+![Power Bi Employee Performance Report](Apex_Tableau_Report.png)
 
 ## **Methods Used**
 
